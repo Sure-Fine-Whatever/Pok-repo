@@ -1,0 +1,21 @@
+{
+  "name": "pokemon-competition",
+  "version": "1.0.0",
+  "description": "Pok homework",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "pokApp": "node --experimental-json-modules main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sure-Fine-Whatever/Pok-repo.git"
+  },
+  "author": "sure-fine-whatever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sure-Fine-Whatever/Pok-repo/issues"
+  },
+  "homepage": "https://github.com/Sure-Fine-Whatever/Pok-repo#readme"
+}
